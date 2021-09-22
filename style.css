@@ -83,11 +83,12 @@ body {
 
 h1 {
   font-weight: 900;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 
 p {
+  font-size: 1.4rem;
   color: rgba(121, 121, 121, 0.788);
 }
 
@@ -100,6 +101,7 @@ p {
 /* --------------------------------------- */
 
 .card__main--price {
+  margin-top: 1.5rem;
   width: 100%;
   padding: 1.5rem;
   background-color: rgb(248, 248, 248);
@@ -109,11 +111,11 @@ p {
 }
 
 .music-img {
-  width: 3rem;
+  width: 4rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.35rem;
   text-align: left;
   font-weight: 900;
   margin-left: 1rem;
@@ -142,6 +144,7 @@ h2 span {
 /* --------------------------------------- */
 
 .card__main--buttons {
+  font-size: 1.4rem;
   margin-top: 2rem;
   display: flex;
   flex-direction: column;
