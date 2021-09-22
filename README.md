@@ -1,6 +1,6 @@
 # Order summary card solution
-# build a order summary card
-# hover states for interactive elements
+build a order summary card
+hover states for interactive elements
 
 ## Table of contents
 
