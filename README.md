@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Order-Summary-Card/)
 
 ## My process
 
@@ -32,4 +32,4 @@
 
 - Instagram - [@frontendparham](https://www.instagram.com/frontendparham)
 - Frontend Mentor - [@frontendparham](https://www.frontendmentor.io/profile/frontendparham)
-- GitHub - [@frontendparham](https://www.twitter.com/yourusername)
+- GitHub - [@frontendparham](https://www.github.com/frontendparham)
