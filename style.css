@@ -55,7 +55,7 @@ body {
 .card {
   width: 25%;
   height: 80%;
-  background-color: red;
+  background-color: #fff;
   border-radius: 1rem;
 }
 
